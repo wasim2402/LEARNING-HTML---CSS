@@ -1,0 +1,30 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-family: Arial;
+}
+.navbar{
+    display: flex;
+    justify-content:space-evenly;
+    align-items: center;
+    background-color: rgba(39, 34, 79, 0.745);
+    height: 55px;
+    width: 100%;
+    color: white
+
+    
+}
+.logo{
+    font-size:20px;
+    font-weight: 700;
+    color:white;
+    margin-right: 1000px; 
+}
+.nav-content a{
+    margin-left: 30px;
+    text-decoration: none;
+    color: white;
+}
+a:hover{
+    color: orange;
+}

@@ -1,0 +1,48 @@
+*{
+    padding: 0;
+    margin: 0;
+    
+
+}
+#navbar{
+    height: 60px;
+    background-color: #0f1111;
+   
+   
+}
+button{
+    background-color: #f08804;
+}
+#logo{
+    color: #f08804;
+    font-size: 25px;
+}
+a{
+    margin-right: 200px;
+    text-decoration: none;
+    color: white;
+}
+a:hover{
+    color: #f08804;
+}
+
+.contentBox{
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    display: inline-block;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+#content{
+    height: 618px;
+}
+footer{
+    background-color: #0f1111;
+    color: white;
+    text-align: center;
+}
+#box1{
+    background-image: url(my_photo.jpg);
+    background-size: contain;
+}
